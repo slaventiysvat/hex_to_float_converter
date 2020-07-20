@@ -1,0 +1,5 @@
+﻿  float_converter.cpp
+  main.cpp
+D:\MyProjects\float_converter\float_converter\float_converter\main.cpp(15,20): warning C4244: '=': conversion from 'double' to 'uint32_t', possible loss of data
+  Generating Code...
+  float_converter.vcxproj -> D:\MyProjects\float_converter\float_converter\Debug\float_converter.exe
